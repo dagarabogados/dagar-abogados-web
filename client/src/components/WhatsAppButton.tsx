@@ -1,7 +1,7 @@
 import { MessageCircle } from 'lucide-react';
 
 export default function WhatsAppButton() {
-  const phoneNumber = '34600000000'; // Reemplazar con tu número
+  const phoneNumber = '34617447309';
   const message = 'Hola, me gustaría consultar sobre servicios legales en derecho penal.';
   const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
 

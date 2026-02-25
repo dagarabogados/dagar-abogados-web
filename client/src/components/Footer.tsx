@@ -15,7 +15,7 @@ export default function Footer() {
                 <Phone size={20} className="text-accent mt-1 flex-shrink-0" />
                 <div>
                   <p className="font-medium">Teléfono</p>
-                  <a href="tel:+34600000000" className="hover:text-accent transition-colors">
+                  <a href="tel:+34617447309" className="hover:text-accent transition-colors">
                     +34 617 447 309
                   </a>
                 </div>
